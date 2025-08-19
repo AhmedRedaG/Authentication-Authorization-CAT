@@ -1,4 +1,4 @@
-### Authentication & Authorization API
+# Authentication & Authorization API
 
 Robust JWT-based authentication with email verification, Google OAuth2, and full two‑factor authentication (SMS, TOTP, backup codes).
 
@@ -378,7 +378,7 @@ Note: The test script sets `NODE_ENV=testing` using Windows syntax.
 
 ## License
 
-ISC — see `package.json` for license metadata.
+ISC.
 
 ## Credits & Acknowledgements
 
